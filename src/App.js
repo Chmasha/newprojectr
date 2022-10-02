@@ -8,6 +8,10 @@ function App() {
       <header className="App-header">
         <h1> Weather APP</h1>
         <Weather />
+        <small>
+          <a href="https://github.com/Chmasha/newprojectr">Open-source code</a>
+          {" by Mariia Chorna "}
+        </small>
       </header>
     </div>
   );
